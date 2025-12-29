@@ -1,0 +1,7 @@
+{
+  "name": "PromoSpider Command Center",
+  "description": "An autonomous agent orchestration dashboard for discovering, validating, and publishing affiliate offers and promotions using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
